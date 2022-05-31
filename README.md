@@ -62,4 +62,4 @@ Implemented searching ,review product and buying functionalities with online pay
 
 ### Deployed site
 
-[Deployed Link of website](https://lighthearted-boba-40e862.netlify.app/)
+[Deployed Link of website](https://comfy-hamster-f88545.netlify.app)
